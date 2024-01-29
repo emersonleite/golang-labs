@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"go_lab/fibonacci"
 	"time"
+
+	"github.com/emersonleite/golang_labs/fibonacci"
 )
 
 func CalculateManyWithChannel(indexFibonacci int) {
