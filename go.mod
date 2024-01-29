@@ -1,3 +1,3 @@
-module go_lab
+module github.com/emersonleite/golang-labs.git
 
 go 1.21.4
